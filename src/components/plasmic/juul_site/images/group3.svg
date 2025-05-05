@@ -1,0 +1,19 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1567 1158">
+  <path opacity=".4" d="M480.687 1157.28c236.753 0 428.679-191.923 428.679-428.676s-191.926-428.68-428.679-428.68c-236.754 0-428.68 191.927-428.68 428.68 0 236.753 191.926 428.676 428.68 428.676z" fill="url(#j-T846MvGEiea)"/>
+  <path opacity=".3" d="M1138.1 1123.96c236.75 0 428.68-191.928 428.68-428.681s-191.93-428.68-428.68-428.68c-236.757 0-428.683 191.927-428.683 428.68 0 236.753 191.926 428.681 428.683 428.681z" fill="url(#j-T846MvGEieb)"/>
+  <path opacity=".5" d="M457.46 914.92c252.648 0 457.46-204.812 457.46-457.46C914.92 204.812 710.108 0 457.46 0 204.812 0 0 204.812 0 457.46c0 252.648 204.812 457.46 457.46 457.46z" fill="url(#j-T846MvGEiec)"/>
+  <defs>
+    <radialGradient id="j-T846MvGEiea" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(90 -123.959 604.646) scale(428.68)">
+      <stop stop-color="#FB3675"/>
+      <stop offset="1" stop-color="#FF8BAC" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="j-T846MvGEieb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(90 221.41 916.69) scale(428.68)">
+      <stop stop-color="#FB3675"/>
+      <stop offset="1" stop-color="#FF8BAC" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="j-T846MvGEiec" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(90 0 457.46) scale(457.46)">
+      <stop stop-color="#10D1D5"/>
+      <stop offset="1" stop-color="#006466" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

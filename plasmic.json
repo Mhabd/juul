@@ -1,0 +1,317 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "js",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "inlined",
+    "publicDir": "../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "a2wd5TTAMQh5B8b8Pk5nmR",
+      "projectApiToken": "xLuyrlEjAbvEfp4Phs2fGAyU2nJ32oT311QB1BPFjgUg1zHNHSuAf0WrJv5i8Yh4pl1cbGyS5k9o0VxAjSg",
+      "projectName": "JUUL SITE",
+      "version": "latest",
+      "cssFilePath": "plasmic/juul_site/plasmic.module.css",
+      "components": [
+        {
+          "id": "dqAQpEVZbPGV",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "a2wd5TTAMQh5B8b8Pk5nmR",
+          "renderModuleFilePath": "plasmic/juul_site/PlasmicHomepage.jsx",
+          "importSpec": {
+            "modulePath": "Homepage.jsx"
+          },
+          "cssFilePath": "plasmic/juul_site/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/"
+        },
+        {
+          "id": "vyzfkHG1QrLo",
+          "name": "Download",
+          "type": "managed",
+          "projectId": "a2wd5TTAMQh5B8b8Pk5nmR",
+          "renderModuleFilePath": "plasmic/juul_site/PlasmicDownload.jsx",
+          "importSpec": {
+            "modulePath": "Download.jsx"
+          },
+          "cssFilePath": "plasmic/juul_site/PlasmicDownload.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/download"
+        }
+      ],
+      "icons": [
+        {
+          "id": "JMlym5aqGOV2",
+          "name": "AIcon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__A.jsx"
+        },
+        {
+          "id": "mIORS7ii_inY",
+          "name": "VectorIcon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__Vector.jsx"
+        },
+        {
+          "id": "7o4wOEjkZ9It",
+          "name": "BtnArrowSvgIcon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__BtnArrowSvg.jsx"
+        },
+        {
+          "id": "gIdZkhOyRiKk",
+          "name": "Vector2Icon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__Vector2.jsx"
+        },
+        {
+          "id": "03A-_2aQ1Huv",
+          "name": "Vector3Icon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__Vector3.jsx"
+        },
+        {
+          "id": "7PyANKj6uMtH",
+          "name": "Vector4Icon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__Vector4.jsx"
+        },
+        {
+          "id": "ORTABW7Q1ef-",
+          "name": "Vector5Icon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__Vector5.jsx"
+        },
+        {
+          "id": "aX-LlgX495Sb",
+          "name": "Vector6Icon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__Vector6.jsx"
+        },
+        {
+          "id": "T-Or6OVf6Mfu",
+          "name": "Vector7Icon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__Vector7.jsx"
+        },
+        {
+          "id": "m9cSViJCnFtm",
+          "name": "Vector8Icon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__Vector8.jsx"
+        },
+        {
+          "id": "yeDbZ3LPrkOZ",
+          "name": "A2Icon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__A2.jsx"
+        },
+        {
+          "id": "HQot8ae03YON",
+          "name": "ArrowRightWhiteSvgIcon",
+          "moduleFilePath": "plasmic/juul_site/icons/PlasmicIcon__ArrowRightWhiteSvg.jsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "PTZGGpVRJcDm",
+          "name": "Background",
+          "filePath": "plasmic/juul_site/images/background.png"
+        },
+        {
+          "id": "njMlG-QbLvoU",
+          "name": "Section",
+          "filePath": "plasmic/juul_site/images/section.png"
+        },
+        {
+          "id": "sYU6UFG9D02I",
+          "name": "Section 2",
+          "filePath": "plasmic/juul_site/images/section2.png"
+        },
+        {
+          "id": "JoTq-69EiWyU",
+          "name": "Section 3",
+          "filePath": "plasmic/juul_site/images/section3.png"
+        },
+        {
+          "id": "U_nq2i0ah2qJ",
+          "name": "Section 4",
+          "filePath": "plasmic/juul_site/images/section4.png"
+        },
+        {
+          "id": "sron6VVNLjbU",
+          "name": "logo 1",
+          "filePath": "plasmic/juul_site/images/logo1.png"
+        },
+        {
+          "id": "hIyr90ufZB-J",
+          "name": "Background+Border",
+          "filePath": "plasmic/juul_site/images/backgroundBorder.png"
+        },
+        {
+          "id": "yJik41ItpeIn",
+          "name": "Background+Border 2",
+          "filePath": "plasmic/juul_site/images/backgroundBorder2.png"
+        },
+        {
+          "id": "AvJJqcHVeVTi",
+          "name": "Figure",
+          "filePath": "plasmic/juul_site/images/figure.png"
+        },
+        {
+          "id": "pmGHh5e7KCp3",
+          "name": "public-profiles-mockup.png",
+          "filePath": "plasmic/juul_site/images/publicProfilesMockupPng.png"
+        },
+        {
+          "id": "4EEZxsWXG1Yi",
+          "name": "inventory-manager-mockup.png",
+          "filePath": "plasmic/juul_site/images/inventoryManagerMockupPng.png"
+        },
+        {
+          "id": "UiCDtcnS7i2M",
+          "name": "undetectable-ghost-modules-mockup.png",
+          "filePath": "plasmic/juul_site/images/undetectableGhostModulesMockupPng.png"
+        },
+        {
+          "id": "Ht80wvCWXJXX",
+          "name": "legit-mode-graphic.png",
+          "filePath": "plasmic/juul_site/images/legitModeGraphicPng.png"
+        },
+        {
+          "id": "45iltt-9QADt",
+          "name": "friends-graphic.png",
+          "filePath": "plasmic/juul_site/images/friendsGraphicPng.png"
+        },
+        {
+          "id": "JEG9Sqt02VMe",
+          "name": "injectable-client-graphic.png",
+          "filePath": "plasmic/juul_site/images/injectableClientGraphicPng.png"
+        },
+        {
+          "id": "ehoVC8KucOkn",
+          "name": "Group",
+          "filePath": "plasmic/juul_site/images/group.svg"
+        },
+        {
+          "id": "6FTbS1SDgKAJ",
+          "name": "ghost.svg",
+          "filePath": "plasmic/juul_site/images/ghostSvg.svg"
+        },
+        {
+          "id": "5NakMcU4jYN8",
+          "name": "Group 2",
+          "filePath": "plasmic/juul_site/images/group2.svg"
+        },
+        {
+          "id": "1HS0SDRe2piy",
+          "name": "icon-2.svg",
+          "filePath": "plasmic/juul_site/images/icon2Svg.svg"
+        },
+        {
+          "id": "24nOYIXE7aoi",
+          "name": "styled-ul-check.svg",
+          "filePath": "plasmic/juul_site/images/styledUlCheckSvg.svg"
+        },
+        {
+          "id": "iIkxIXnVVAud",
+          "name": "styled-ul-check.svg 2",
+          "filePath": "plasmic/juul_site/images/styledUlCheckSvg2.svg"
+        },
+        {
+          "id": "lT1PvC8xE-ma",
+          "name": "styled-ul-check.svg 3",
+          "filePath": "plasmic/juul_site/images/styledUlCheckSvg3.svg"
+        },
+        {
+          "id": "NDGOX-h6uCMR",
+          "name": "styled-ul-check.svg 4",
+          "filePath": "plasmic/juul_site/images/styledUlCheckSvg4.svg"
+        },
+        {
+          "id": "kl0KTgZtmXnS",
+          "name": "styled-ul-check.svg 5",
+          "filePath": "plasmic/juul_site/images/styledUlCheckSvg5.svg"
+        },
+        {
+          "id": "v0Xy6yEzBBRT",
+          "name": "styled-ul-check.svg 6",
+          "filePath": "plasmic/juul_site/images/styledUlCheckSvg6.svg"
+        },
+        {
+          "id": "ezzNrLzGlSQm",
+          "name": "icon-3.svg",
+          "filePath": "plasmic/juul_site/images/icon3Svg.svg"
+        },
+        {
+          "id": "EDogY2_v2ToY",
+          "name": "icon-4.svg",
+          "filePath": "plasmic/juul_site/images/icon4Svg.svg"
+        },
+        {
+          "id": "MPBhtoJNBFf9",
+          "name": "icon-5.svg",
+          "filePath": "plasmic/juul_site/images/icon5Svg.svg"
+        },
+        {
+          "id": "6EXxhI2sA-1k",
+          "name": "Group 3",
+          "filePath": "plasmic/juul_site/images/group3.svg"
+        },
+        {
+          "id": "mZhpmsuNvxFC",
+          "name": "styled-ul-check.svg 7",
+          "filePath": "plasmic/juul_site/images/styledUlCheckSvg7.svg"
+        },
+        {
+          "id": "h9uNMdlMHYje",
+          "name": "styled-ul-check.svg 8",
+          "filePath": "plasmic/juul_site/images/styledUlCheckSvg8.svg"
+        },
+        {
+          "id": "eMYpM9Nk4KMZ",
+          "name": "styled-ul-check.svg 9",
+          "filePath": "plasmic/juul_site/images/styledUlCheckSvg9.svg"
+        }
+      ],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "splitsProviderFilePath": "",
+      "codeComponents": [
+        {
+          "id": "btWWPEyieTi_",
+          "name": "PlasmicHead",
+          "displayName": "hostless-plasmic-head",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "lCJPw1KODPUO",
+          "name": "Fetcher",
+          "displayName": "plasmic-data-source-fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ],
+      "customFunctions": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "FB7MESYzDJcb",
+        "name": "Screen",
+        "projectId": "a2wd5TTAMQh5B8b8Pk5nmR",
+        "contextFilePath": "plasmic/juul_site/PlasmicGlobalVariant__Screen.jsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "cliVersion": "0.1.337",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.337/dist/plasmic.schema.json"
+}
