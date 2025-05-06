@@ -702,7 +702,7 @@ function PlasmicDownload__RenderFunc(props) {
                         projectcss.__wab_text,
                         sty.link__eWoNd
                       )}
-                      href={`/`}
+                      href={`/juul`}
                       platform={"react"}
                     >
                       {"Home"}
@@ -866,7 +866,7 @@ function PlasmicDownload__RenderFunc(props) {
                     projectcss.a,
                     sty.logo1
                   )}
-                  href={`/`}
+                  href={`/juul`}
                   platform={"react"}
                 />
               </div>
