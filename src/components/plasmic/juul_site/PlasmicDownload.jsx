@@ -539,7 +539,7 @@ function PlasmicDownload__RenderFunc(props) {
                 data-plasmic-name={"button"}
                 data-plasmic-override={overrides.button}
                 className={classNames(projectcss.all, projectcss.a, sty.button)}
-                href={"/juul.zip"}
+                href={"/#/juul.zip"}
                 platform={"react"}
               >
                 <div
