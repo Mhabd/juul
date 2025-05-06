@@ -702,7 +702,7 @@ function PlasmicDownload__RenderFunc(props) {
                         projectcss.__wab_text,
                         sty.link__eWoNd
                       )}
-                      href={`juul/`}
+                      href={`/`}
                       platform={"react"}
                     >
                       {"Home"}
@@ -798,7 +798,7 @@ function PlasmicDownload__RenderFunc(props) {
                         projectcss.__wab_text,
                         sty.link__kfEY
                       )}
-                      href={`juul/#/download `}
+                      href={`#/download`}
                       platform={"react"}
                     >
                       {"Download"}
@@ -845,7 +845,7 @@ function PlasmicDownload__RenderFunc(props) {
                   data-plasmic-name={"link"}
                   data-plasmic-override={overrides.link}
                   className={classNames(projectcss.all, projectcss.a, sty.link)}
-                  href={`juul/#/download `}
+                  href={`#/download`}
                   platform={"react"}
                 >
                   <div
@@ -866,7 +866,7 @@ function PlasmicDownload__RenderFunc(props) {
                     projectcss.a,
                     sty.logo1
                   )}
-                  href={`juul/`}
+                  href={`/`}
                   platform={"react"}
                 />
               </div>

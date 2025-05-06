@@ -279,7 +279,7 @@ function PlasmicHomepage__RenderFunc(props) {
                           projectcss.a,
                           sty.link
                         )}
-                        href={`juul/#/download `}
+                        href={`#/download`}
                         platform={"react"}
                       >
                         <div
@@ -692,7 +692,7 @@ function PlasmicHomepage__RenderFunc(props) {
                         projectcss.a,
                         sty.link2
                       )}
-                      href={`juul/#/download `}
+                      href={`juul/#/download`}
                       platform={"react"}
                     >
                       <div
@@ -910,7 +910,7 @@ function PlasmicHomepage__RenderFunc(props) {
                         projectcss.a,
                         sty.link3
                       )}
-                      href={`juul/#/download `}
+                      href={`#/download`}
                       platform={"react"}
                     >
                       <div
@@ -1390,7 +1390,7 @@ function PlasmicHomepage__RenderFunc(props) {
                       projectcss.a,
                       sty.link4
                     )}
-                    href={`juul/#/download `}
+                    href={`#/download`}
                     platform={"react"}
                   >
                     <div
@@ -1452,7 +1452,7 @@ function PlasmicHomepage__RenderFunc(props) {
                           projectcss.__wab_text,
                           sty.link__scora
                         )}
-                        href={`juul/`}
+                        href={`/`}
                         platform={"react"}
                       >
                         {"Home"}
@@ -1548,7 +1548,7 @@ function PlasmicHomepage__RenderFunc(props) {
                           projectcss.__wab_text,
                           sty.link__og1J
                         )}
-                        href={`juul/#/download `}
+                        href={`#/download`}
                         platform={"react"}
                       >
                         {"Download"}
@@ -1609,7 +1609,7 @@ function PlasmicHomepage__RenderFunc(props) {
                         projectcss.a,
                         sty.link5
                       )}
-                      href={`juul/#/download `}
+                      href={`#/download`}
                       platform={"react"}
                     >
                       <div
@@ -1708,7 +1708,7 @@ function PlasmicHomepage__RenderFunc(props) {
                     projectcss.a,
                     sty.link7
                   )}
-                  href={`juul/#/download `}
+                  href={`#/download`}
                   platform={"react"}
                 >
                   <div
@@ -1729,7 +1729,7 @@ function PlasmicHomepage__RenderFunc(props) {
                     projectcss.a,
                     sty.logo1
                   )}
-                  href={`juul/`}
+                  href={`/`}
                   platform={"react"}
                 />
               </div>
