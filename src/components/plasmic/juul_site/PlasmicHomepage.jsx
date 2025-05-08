@@ -898,7 +898,7 @@ function PlasmicHomepage__RenderFunc(props) {
                             sty.text__krFm
                           )}
                         >
-                          {"Drops all unneeded baloney."}
+                          {"Drops all unneeded changes."}
                         </div>
                       </div>
                     </div>
@@ -1022,7 +1022,7 @@ function PlasmicHomepage__RenderFunc(props) {
                         )}
                       >
                         {
-                          "Contains all your favorite features and enhancements without getting your account banned."
+                          "Contains all your favorite features and enhancements delivered at premium speeds!"
                         }
                       </div>
                     </div>
@@ -1168,7 +1168,7 @@ function PlasmicHomepage__RenderFunc(props) {
                           sty.text__xwFrI
                         )}
                       >
-                        {"Supports Chrome, Firefox and Edge coming soon."}
+                        {"Supports Chrome, Firefox, and Edge coming soon."}
                       </div>
                     </div>
                     <div
