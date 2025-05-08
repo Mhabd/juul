@@ -2,7 +2,7 @@
   "name": "codespaces-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "Mhabd.github.io/juul",
+  "homepage": "https://juul.pw",
   "dependencies": {
     "@plasmicapp/react-web": "^0.2.383",
     "@testing-library/jest-dom": "^5.16.5",
