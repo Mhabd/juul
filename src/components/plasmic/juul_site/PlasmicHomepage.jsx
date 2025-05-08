@@ -1452,7 +1452,7 @@ function PlasmicHomepage__RenderFunc(props) {
                           projectcss.__wab_text,
                           sty.link__scora
                         )}
-                        href={`/juul/`}
+                        href={`/`}
                         platform={"react"}
                       >
                         {"Home"}
@@ -1729,7 +1729,7 @@ function PlasmicHomepage__RenderFunc(props) {
                     projectcss.a,
                     sty.logo1
                   )}
-                  href={`/juul/`}
+                  href={`/`}
                   platform={"react"}
                 />
               </div>
