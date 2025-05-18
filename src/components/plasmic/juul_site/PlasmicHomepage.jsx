@@ -1493,7 +1493,7 @@ function PlasmicHomepage__RenderFunc(props) {
                             projectcss.__wab_text,
                             sty.link__vtPmy
                           )}
-                          href={"https://discord.com/invite/UZNZGN9gV2"}
+                          href={"https://discord.com/"}
                           platform={"react"}
                           target={"_blank"}
                         >
@@ -1636,7 +1636,7 @@ function PlasmicHomepage__RenderFunc(props) {
                           projectcss.__wab_text,
                           sty.link__jbIyr
                         )}
-                        href={"https://discord.gg/UZNZGN9gV2"}
+                        href={"https://discord.com/"}
                         platform={"react"}
                         target={"_blank"}
                       >
@@ -1692,7 +1692,7 @@ function PlasmicHomepage__RenderFunc(props) {
                         projectcss.__wab_text,
                         sty.link__uaiwl
                       )}
-                      href={"https://discord.gg/UZNZGN9gV2"}
+                      href={"https://discord.com/"}
                       platform={"react"}
                       target={"_blank"}
                     >

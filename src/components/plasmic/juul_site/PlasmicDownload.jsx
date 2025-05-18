@@ -743,7 +743,7 @@ function PlasmicDownload__RenderFunc(props) {
                           projectcss.__wab_text,
                           sty.link__sHdo
                         )}
-                        href={"https://discord.com/invite/UZNZGN9gV2"}
+                        href={"https://discord.com/"}
                         platform={"react"}
                         target={"_blank"}
                       >
@@ -833,7 +833,7 @@ function PlasmicDownload__RenderFunc(props) {
                         projectcss.__wab_text,
                         sty.link__mYyzq
                       )}
-                      href={"https://discord.com/invite/UZNZGN9gV2"}
+                      href={"https://discord.com/"}
                       platform={"react"}
                       target={"_blank"}
                     >
