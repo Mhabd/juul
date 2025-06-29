@@ -1588,7 +1588,7 @@ function PlasmicHomepage__RenderFunc(props) {
                             sty.text__sC4Yt
                           )}
                         >
-                          {"Roblox, but juiced"}
+                          {"Roblox, but powered"}
                         </div>
                       </div>
                       <div
